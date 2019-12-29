@@ -1,0 +1,4 @@
+Training time: 1022.076484 secs; Prediction time: 151.288313 secs
+F-measure for positive: 0.926359
+F-measure for negative: 0.792833
+F-measure for neutral: 0.957532
